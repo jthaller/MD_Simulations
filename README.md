@@ -1,5 +1,5 @@
 # MS_Simulations
-![](https://zenodo.org/badge/316599363.svg)
+[![DOI](https://zenodo.org/badge/273808606.svg)](https://zenodo.org/badge/latestdoi/273808606)
 
 ### Molecular Dynamic Simulations Code
 
